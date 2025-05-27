@@ -1,1 +1,4 @@
-Gc08Q~mZ6LUEXnHAVgm3341ndjjKaoILD~tdzaYI
+  "AadClientId": "XXXX-2dd4-4645-98c2-960cf76a4357",
+  "AadSecret": "Gc08Q~mZ6LUEXnHAVgm3341ndjjKaoILD~tdzaYI",
+  "AadTenantDomain": "XXXX.onmicrosoft.com",
+  "AadTenantId": "99d4947b-XXX-XXXX-9ace-abceab54bcd4",

@@ -1,0 +1,4 @@
+  "AadClientId": "5007ab54-136a-4cab-a689-0f1c8890f5bc",
+  "AadSecret": "Gc08Q~mZ6LUEXnHAVgm3341ndjjKaoILD~tdzaYI",
+  "AadTenantDomain": "GIAMdesign.onmicrosoft.com",
+  "AadTenantId": "7e76f743-46fa-460b-9a57-3e341ea922bc",
